@@ -13,5 +13,5 @@ List any resources used here, or simply put `N/A` if not applicable.
 
 | Student Name | CCID      |
 | ------------ | --------- |
-| Vadish Aggarwal    | 1795856 |
-| `<Add more>` | `<CCID>`  |
+| Vadish Aggarwal    | vadish |
+| Aarib Usmani | aarib  |
